@@ -1,0 +1,13 @@
+{
+    "id": "Life360",
+    "name": "Life 360",
+    "version": "1.0.0",
+    "description": "Life 360",
+    "main": "index.js",
+    "author": "Fabiano Castello <fabianocastello@gmail.com>",
+    "license": "MIT",
+    "repository": "https://github.com/fabianocastello/franz-recipe-life360",
+    "config": {
+      "serviceURL": "https://www.life360.com/"
+    }
+  }
